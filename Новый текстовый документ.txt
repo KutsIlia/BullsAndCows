@@ -1,0 +1,108 @@
+# User-specific files
+*.suo
+*.user
+*.aps
+*.ncb
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.log
+*.opensdf
+*.sdf
+*.cache
+*.VC.log
+ipch/
+*.tlog
+*.tmp
+*.tmp_proj
+*.userprefs
+
+# Visual Studio 2017+
+*.ipch
+*.opensdf
+
+# Build outputs
+*.obj
+*.pch
+*.ilk
+*.pdb
+*.exp
+*.lib
+*.dll
+*.exe
+*.bin
+*.out
+*.rsp
+*.sbr
+*.manifest
+
+# Temporary files
+*.log
+*.tmp
+
+# Package/deployment files
+*.nupkg
+*.snk
+
+# User-specific files
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+*.shproj.user
+*.myproj.user
+*.sln.user
+*.suo
+
+# Generated files
+*.user
+*.pidb
+*.log
+*.cache
+
+# Local application data (generated files)
+obj/
+bin/
+*.db
+*.db-shm
+*.db-wal
+
+# Output files
+*.apk
+*.ipa
+*.aab
+*.xap
+*.appx
+
+# Other temporary or generated files
+Thumbs.db
+*.tmp
+*.backup
+*.old
+
+# IDE files
+*.vshost.*
+*.db
+*.user
+
+# Build tools
+*.vc.db
+*.vc.log
+
+# Package References
+packages/
+
+# NuGet Packages
+*.nupkg
+
+# Visual Studio Code
+.vscode/
+
+#Rider
+.idea/
+*.sln.iml
+
+#Unity
+Library/
+Temp/
+obj/
+*.csproj
